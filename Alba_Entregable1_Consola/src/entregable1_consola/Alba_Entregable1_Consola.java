@@ -5,6 +5,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.RandomAccessFile;
 
+//ejercicio entregable para nota de la primera evaluacion
 public class Alba_Entregable1_Consola {
 
     public static void main(String[] args) {
